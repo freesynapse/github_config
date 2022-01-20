@@ -4,11 +4,12 @@ To make it work, I first followed the instructions on https://github.com/setting
 
 
 ## To make git command line work:
-* I used git config --global push.default simple (to make 'git push' push main -> main).
-* Create an empty repository on GitHub.
-* > git clone <URL>
-* > git add .
-* > git commit -m "message"
-* > git push
+I used git config --global push.default simple (to make 'git push' push main -> main). Then create an empty repository and copy the address.
+```
+git clone <URL>
+git add .
+git commit -m "message"
+git push
+```
 
 
