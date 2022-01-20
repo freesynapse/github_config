@@ -11,5 +11,6 @@ git add .
 git commit -m "message"
 git push
 ```
+These commands, in conjunction with the global settings for push.default, will push to main.
 
 
